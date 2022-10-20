@@ -1,39 +1,27 @@
-SNIPER
-title: Sniper
-genre: war
-year of release: 2022
-rating of this movie: 6.2
-viewing time in minutes: 111
+TEST
+title: test
+genre: test
+year of release: 1
+rating of this movie: 1.0
+viewing time in minutes: 1
+TEST2
+title: test2
+genre: test2
+year of release: 2
+rating of this movie: 2.0
+viewing time in minutes: 2
+TEST2
+title: test2
+genre: test2
+year of release: 2
+rating of this movie: 2.0
+viewing time in minutes: 2
 THROUGH MY WINDOW
 title: Through My Window
 genre: drama
 year of release: 2022
 rating of this movie: 5.4
 viewing time in minutes: 116
-THE GREEN MILE
-title: The Green Mile
-genre: fantasy/drama
-year of release: 1999
-rating of this movie: 8.6
-viewing time in minutes: 189
-SAVING PRIVATE RYAN
-title: Saving Private Ryan
-genre: war
-year of release: 1998
-rating of this movie: 8.6
-viewing time in minutes: 169
-THE GODFATHER
-title: The Godfather
-genre: crime
-year of release: 1972
-rating of this movie: 9.2
-viewing time in minutes: 175
-INCEPTION
-title: Inception
-genre: action
-year of release: 2010
-rating of this movie: 8.8
-viewing time in minutes: 148
 CENTRAL INTELLIGENCE
 title: Central Intelligence
 genre: comedy
@@ -46,3 +34,27 @@ genre: drama
 year of release: 2008
 rating of this movie: 7.6
 viewing time in minutes: 123
+THE GREEN MILE
+title: The Green Mile
+genre: fantasy/drama
+year of release: 1999
+rating of this movie: 8.6
+viewing time in minutes: 189
+SAVING PRIVATE RYAN
+title: Saving Private Ryan
+genre: war
+year of release: 1998
+rating of this movie: 8.6
+viewing time in minutes: 169
+INCEPTION
+title: Inception
+genre: action
+year of release: 2010
+rating of this movie: 8.8
+viewing time in minutes: 148
+THE GODFATHER
+title: The Godfather
+genre: crime
+year of release: 1972
+rating of this movie: 9.2
+viewing time in minutes: 175

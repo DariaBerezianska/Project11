@@ -27,7 +27,8 @@ public class Movie {
                 + "\ntitle: " + title
                 + "\ngenre: " + genre
                 + "\nyear of release: " + yearOfRelease
-                + "\nrating of this movie: " + filmRating;
+                + "\nrating of this movie: " + filmRating
+                + "\nviewing time in minutes: " + viewingTime;
     }
 
     public String getTitle() {

@@ -12,6 +12,7 @@ public class Main {
             switch (number) {
                 case 0:
                     continuing = false;
+                    break;
                 case 1:
                     addingMovie(movies);
                     break;
@@ -43,7 +44,7 @@ public class Main {
                     viewingTimeInHours(movies);
                     break;
                 default:
-                    System.out.println("Enter a correct number from 0 to 9");
+                    System.out.println("Enter a correct number from 0 to 10");
             }
         } while (continuing);
         System.out.println("Thank you for using movie database");
